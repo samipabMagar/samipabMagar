@@ -52,12 +52,6 @@ I enjoy building clean, practical web applications and continuously improving my
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samipabMagar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
 ---
 
 ## 🐍 My Contribution Journey
@@ -100,7 +94,3 @@ Consistency  → Keep moving forward
 </p>
 
 ---
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
