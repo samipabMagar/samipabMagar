@@ -41,14 +41,13 @@ I build clean, practical web applications and continuously sharpen my craft.
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=samipabMagar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&card_width=450" />
+      <img src="https://github-stats-extended.vercel.app/api?username=samipabMagar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github" />
     </td>
     <td align="center" width="33%">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=samipabMagar&layout=donut&hide_border=true&langs_count=6&card_width=450" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samipabMagar&layout=donut&hide_border=true&langs_count=6" />
     </td>
     <td align="center" width="34%">
-      <img width="100%" src="https://streak-stats.demolab.com?user=samipabMagar&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+      <img src="https://streak-stats.demolab.com?user=samipabMagar&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     </td>
   </tr>
 </table>
-
